@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshsingh96
 - 👀 I’m interested in Data Analyst Jobs
-- 🌱 I’m currently laerning python and SQL
+- 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate anything that lands me a project of SQL and Python
 - 📫 How to reach me itdeveshsingh@gmail.com
 
